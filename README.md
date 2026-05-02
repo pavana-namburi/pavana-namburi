@@ -70,10 +70,11 @@
 
 ---
 
-## 🏆 GeeksforGeeks Stats
+## 🏆 Coding Stats
 
 <p align="center">
   <img src="https://gfgstatscard.vercel.app/pavana26?theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Pavana_numburi?theme=dark&font=Sawarabi%20Gothic&ext=heatmap" />
 </p>
 
 ---
